@@ -1,0 +1,29 @@
+:root {
+  /* Brand Core Colors */
+  --color-primary-orange: #F69820;
+  --color-primary-orange-dark: #FD4F0A;
+  --color-deep-navy: #273141;
+  --color-royal-blue: #385BB1;
+  --color-warm-cream: #FFECD5;
+  --color-warm-bg: #FFF7EA;
+  --color-soft-beige: #E3C7A9;
+  --color-coral-red: #CB3C48;
+  --color-ink-black: #161211;
+  --color-white: #FFFFFF;
+  
+  /* Semantic Accent Accents */
+  --color-emerald-green: #42A86B;
+  --color-card-blue: #4A7FE8;
+  --color-card-pink: #EB6383;
+  --color-card-yellow: #F6B828;
+  --color-parents-purple: #5D52A1;
+  --color-cta-orange: #FF952F;
+
+  /* Surfaces & Shadows */
+  --shadow-soft-card: 0 12px 35px rgba(39, 49, 65, 0.07);
+  --shadow-floating-badge: 0 8px 24px rgba(246, 152, 32, 0.25);
+  --shadow-elevated: 0 20px 50px rgba(39, 49, 65, 0.12);
+  --radius-pill: 9999px;
+  --radius-card: 28px;
+  --radius-large: 36px;
+}
